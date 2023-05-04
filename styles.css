@@ -1,0 +1,52 @@
+body{
+  text-align: center;
+  background-color: #322096;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.intro{
+  margin-top: 100px;
+  color: #FFFFFF;
+  font-size: 20px;
+}
+
+.name h1{
+  margin: 15px;
+  font-size: 60px;
+}
+
+.name{
+  margin-top: 20px;
+  color: rgb(255, 197, 8);
+  font-size: 40px;
+}
+
+p, a{
+  color: #bcb7de;
+  font-size: 25px;
+}
+
+.naveg a{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+.naveg strong{
+  background-color: #ffc700;
+  padding: 10px 20px;
+  color: #110c01;
+}
+
+.rodape{
+  position: absolute;
+  bottom: 0;
+}
+
+.rodape p{
+  font-size: 20px;
+}
+
+strong{
+  color: orange;
+}
